@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706270305299",
+    "project_id": "empire-wealth",
+    "storage_bucket": "empire-wealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706270305299:android:90200424efd4b5238733e6",
+        "android_client_info": {
+          "package_name": "com.maahey.empire_wealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706270305299-iperc2p08njnrj660g5e5traujora06a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyrPLhyIV1wUf2p7N6vI-zAQ5VTGuNNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706270305299-iperc2p08njnrj660g5e5traujora06a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
